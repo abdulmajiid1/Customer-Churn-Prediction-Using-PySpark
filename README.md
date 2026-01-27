@@ -72,7 +72,7 @@ The model achieved the following performance metrics on the test dataset:
 
 ## 📜 License
 
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
+This project is for educational purposes. If you use external datasets, please check their original license terms
 
 ## 👤 Author
 
