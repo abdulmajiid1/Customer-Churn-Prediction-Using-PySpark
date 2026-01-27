@@ -69,10 +69,6 @@ The model achieved the following performance metrics on the test dataset:
 * **High Risk:** Customers with **Month-to-month contracts** and **Fiber Optic** internet service.
 * **Low Risk:** Customers with **2-year contracts** and high **Tenure**.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/abdulmajiid1/Customer-Churn-Prediction-Using-PySpark/issues).
 
 ## 📜 License
 
