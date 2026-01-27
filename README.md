@@ -1,7 +1,3 @@
-Here is a professional `README.md` file tailored for your project. You can copy and paste this directly into your GitHub repository.
-
----
-
 # Customer Churn Prediction Using PySpark
 
 A Big Data machine learning project utilizing Apache Spark to predict customer churn in the telecommunications sector. This project demonstrates an end-to-end scalable pipeline—from data ingestion and cleaning to feature engineering and predictive modeling—to identify at-risk customers and key churn drivers.
