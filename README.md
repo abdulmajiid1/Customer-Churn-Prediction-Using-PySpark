@@ -76,6 +76,6 @@ This project is for educational purposes. If you use external datasets, please c
 
 ## 👤 Author
 
-**Abdulmajid**
+**ABDIMAJID OSMAN IBRAHIM**
 
 * GitHub: [@abdulmajiid1](https://www.google.com/search?q=https://github.com/abdulmajiid1)
